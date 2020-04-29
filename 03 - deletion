@@ -1,0 +1,31 @@
+3) A first operator: delete
+
+“Then it wasn’t very civil of you to offer it,” said Alice angrily.
+
+“It wasn’t very civil of you to sit down without being invited,” said
+the March Hare.
+
+“I didn’t know it was _your_ table,” said Alice; “it’s laid for a great
+many more than three.”
+
+“Your hair wants cutting,” said the Hatter. He had been looking at
+Alice for some time with great curiosity, and this was his first
+speech.
+
+“You should learn not to make personal remarks,” Alice said with some
+severity; “it’s very rude.”
+
+The Hatter opened his eyes very wide on hearing this; but all he _said_
+was, “Why is a raven like a writing-desk?”
+
+
+Keys:
+    x
+    d
+    f / t
+    u / <C-R>
+
+Concepts:
+    operators and motions
+    :help d
+    dd
