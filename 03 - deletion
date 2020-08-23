@@ -22,10 +22,11 @@ was, “Why is a raven like a writing-desk?”
 Keys:
     x
     d
+    dd
     f / t
     u / <C-R>
 
 Concepts:
     operators and motions
     :help d
-    dd
+    multiple ways to do the same thing!
